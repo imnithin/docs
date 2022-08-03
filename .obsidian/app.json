@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "fileSortOrder": "alphabetical",
   "alwaysUpdateLinks": true,
   "spellcheck": true,

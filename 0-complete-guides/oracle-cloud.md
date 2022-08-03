@@ -130,7 +130,7 @@ java --version
 ...
 ```
 
-The above command should print out the latest build number for the Java 17 release we have just installed. If you have any errors you can checkout the following guide [troubleshooting java](java-install.md).
+The above command should print out the latest build number for the Java 17 release we have just installed. If you have any errors you can checkout the following guide [troubleshooting java](/1-deploying-a-server/3-server-troubleshooting/java-install.md).
 
 #### Creating the Minecraft server
 
@@ -147,7 +147,7 @@ cd minecraft-server-folder
 ...
 ```
 
-Now we can deploy the server jar we're wanting to use, this tutorial will reference [purpur](https://purpurmc.org) but there are plenty of other server platforms and [this page](../1-picking-your-tools/types-of-jars.md) explains the pros and cons of the major ones.
+Now we can deploy the server jar we're wanting to use, this tutorial will reference [purpur](https://purpurmc.org) but there are plenty of other server platforms and [this page](/1-deploying-a-server/1-picking-your-tools/server-software.md) explains the pros and cons of the major ones.
 
 ```bash
 ...

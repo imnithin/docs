@@ -30,8 +30,6 @@ Within the `spigot.yml` file you should also set the following values.
 > [!NOTE]
 > The above settings within the `spigot.yml` file are not necessary if `allow-flight` is set to true.
 
-[Click here to visit the Anti-Xray Page](antixray.md)
-
 ### Common Anticheats
 
 This list consists common ACs and some pros and cons of each AC.
@@ -48,6 +46,8 @@ This list consists common ACs and some pros and cons of each AC.
 
 ##### Links 
 [Github](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
+
+---
   
 #### AdvancedAntiCheat
 
@@ -60,6 +60,8 @@ This list consists common ACs and some pros and cons of each AC.
 
 ##### Links 
 [Spigot](https://www.spigotmc.org/resources/6442/)
+
+---
 
 #### Grim
 
@@ -75,6 +77,8 @@ This list consists common ACs and some pros and cons of each AC.
 ##### Links 
 [Github](https://github.com/MWHunter/Grim)
 
+---
+
 #### Vulcan
 
 ##### Pros
@@ -86,6 +90,8 @@ This list consists common ACs and some pros and cons of each AC.
 
 ##### Links 
 [Spigot](https://www.spigotmc.org/resources/83626/)
+
+---
 
 #### Spartan
 
@@ -101,6 +107,8 @@ This list consists common ACs and some pros and cons of each AC.
 ##### Links 
 [Spigot](https://www.spigotmc.org/resources/25638/)
 
+---
+
 #### Matrix
 
 ##### Pros
@@ -113,6 +121,8 @@ This list consists common ACs and some pros and cons of each AC.
 
 ##### Links 
 [Website](https://matrix.rip)
+
+---
 
 #### Themis
 
@@ -130,6 +140,8 @@ This list consists common ACs and some pros and cons of each AC.
 > [!warning]
 > This anticheat is only for bedrock players, java players will not be affected.
 
+---
+
 #### SoaromaSAC (Config 6)
 
 ##### Pros
@@ -142,6 +154,8 @@ This list consists common ACs and some pros and cons of each AC.
 
 ##### Links 
 [Spigot](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
+
+---
 
 #### Negativity v1
 
@@ -156,3 +170,8 @@ This list consists common ACs and some pros and cons of each AC.
 ##### Links 
 [Spigot](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
 
+---
+
+### Anti-Xray
+
+A full list of Anti-Xray solutions can be found [here](antixray.md)
